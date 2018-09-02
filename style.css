@@ -788,7 +788,7 @@ header {
     border-radius: 20px;
     color: #404040;
     font-weight: 200;
-    transition: 0.3s color; }
+    transition: all 0.1s; }
     #tags .tags a:hover, #tags .tags a:active,
     #tags .tags .tag:hover,
     #tags .tags .tag:active {
